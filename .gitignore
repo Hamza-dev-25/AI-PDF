@@ -1,0 +1,8 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+chromadb/
+uploaded.pdf
+.vscode/
+*.pdf

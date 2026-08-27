@@ -1,0 +1,9 @@
+langchain_mistralai
+langchain_core
+langchain_community
+python-dotenv
+chromadb
+sentence-transformers
+streamlit
+langchain_huggingface
+pypdf
